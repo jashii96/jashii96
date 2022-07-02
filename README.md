@@ -4,10 +4,7 @@ Software Development Engineer
 
 🔭 I’m currently working as Backend Development Engineer at Proficient Infosoft Pvt Ltd.
 
-🔭 Currently a part-time Instructor at Scaler Academy/InterviewBit, Ex-Unacademy Educator
-
-🌱 I’m currently working on Python, Rest-API, BlockChain
+🌱 I’m currently working on Python, Rest-API
 
 📫 How to reach me jash7818@gmail.com
 
-⚡ Fun fact Someone made me romantic
